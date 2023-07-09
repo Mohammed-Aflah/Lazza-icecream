@@ -1,14 +1,14 @@
 @font-face {
     font-family: main;
-    src: url(/assets/fonts/OpenSans_Condensed-Light.ttf);
+    src: url("../assets/fonts/OpenSans_Condensed-Light.ttf");
 }
 @font-face {
     font-family: head;
-    src: url(/assets/fonts/f2/OpenSans-Regular.ttf);
+    src: url("../assets/fonts/f2/OpenSans-Regular.ttf");
 }
 @font-face {
     font-family: foot;
-    src: url(/assets/fonts/OpenSans_Condensed-Medium.ttf);
+    src: url("../assets/fonts/OpenSans_Condensed-Medium.ttf");
 }
 :root{
     --font:main;
